@@ -20,7 +20,7 @@ NHentai Downloader is a browser extension for users who want a cleaner way to sa
 
 ## Preview
 
-![NHentai Downloader workflow preview](assets/workflow-preview.svg)
+![NHentai Downloader workflow preview](assets/workflow-preview.webp)
 
 ## Table of Contents
 
