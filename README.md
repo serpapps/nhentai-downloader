@@ -1,4 +1,4 @@
-# NHentai Downloader (Browser Extension)
+# NHentai Video Downloader (Browser Extension)
 
 > Download supported NHentai videos as MP4 files from the browser with direct quality selection.
 
@@ -12,7 +12,7 @@ NHentai Downloader is a browser extension for users who want a cleaner way to sa
 
 ## Links
 
-- :rocket: Get it here: [NHentai Downloader](https://serp.ly/nhentai-downloader)
+- :rocket: Get it here: [NHentai Downloader](https://serp.ly/nhentai-downloader?via=github)
 - :new: Latest release: [GitHub Releases](https://github.com/serpapps/nhentai-downloader/releases/latest)
 - :question: Help center: [SERP Help](https://help.serp.co/en/)
 - :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/nhentai-downloader/issues)
@@ -123,7 +123,7 @@ The extension only works on media you can already open and play in your active b
 - No credit card required for the trial
 - Unlimited downloads are available with a paid license
 
-Start here: [https://serp.ly/nhentai-downloader](https://serp.ly/nhentai-downloader)
+Start here: [https://serp.ly/nhentai-downloader?via=github](https://serp.ly/nhentai-downloader?via=github)
 
 ## Installation Instructions
 
